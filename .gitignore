@@ -1,0 +1,23 @@
+# Environnement
+.env
+.env.local
+.env.production
+
+
+#Longs 
+*.log
+logs/
+
+# Docker 
+.dockerignore
+
+#OS 
+.DS_Store
+Thumbs.db
+
+#Editeurs 
+.vscode/
+.idea/
+
+# Dépendances (si Node plus tard)
+node_modules/
